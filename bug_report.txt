@@ -1,1 +1,1 @@
-
+1 bug. No check for 'About the product' max length.
