@@ -1,5 +1,5 @@
-full name: Gokoeva Evelina Feliksovna
-age: 35
-pet: 0
-salary: $450
+Full name: Gokoeva Evelina Feliksovna;
+Age: 35;
+Pet: 0;
+Salary: $450.
 
