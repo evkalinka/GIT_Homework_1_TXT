@@ -1,5 +1,7 @@
+
 Full name: Gokoeva Evelina Feliksovna;
 Age: 35;
 Pet: 0;
-Salary: $450.
+Desired salary: $450.
+
 
